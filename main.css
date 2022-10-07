@@ -1,0 +1,112 @@
+p{
+    color: rgb(1, 105, 105);
+    font-size: 20px;
+    margin-left: auto;
+}
+nav{
+    /* text-align: center; */
+    margin-left: 34%;
+    margin-top: -40px;
+    position: fixed;
+
+}
+
+
+nav a{
+    text-decoration: none;
+    font-weight: bold;
+    font-family: system -ui;
+    color: rgb(16, 133, 201);
+    /* align-items: center; */
+    padding: 20px;
+
+}
+
+.mypart{
+    align-items: center;
+    padding: 50;
+    background-color: rgb(32, 116, 155);
+    height: 350px;
+    width: 30%;
+    margin-left: 35%;;
+    margin-top: 10pc;
+    padding-top: 20px;
+    border-radius: 8px;
+    }
+#alert{
+    margin-left: 20%;
+    color: rgb(209, 224, 224);
+    font-weight: bold;
+    font-size: 20px;
+    width: 90%;
+    font-family: system-ui;
+    
+}
+input{
+    display: block;
+    width: 90%;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: 15px;
+    border: none;
+    font-family: system-ui;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 2px;
+    background-color: azure;
+}
+input:hover{
+    border: none;
+}
+button{
+    display: block;
+    width: 80%;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: 10%;
+    border: none;
+    font-family: system-ui;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 20px;
+    border-radius: 2px;
+    background-color: azure;
+    color: grey;
+
+}
+
+#aler{
+    margin-left: 20%;
+    color:rgb(209, 224, 224);
+    font-weight: bold;
+    font-size: 20px;
+    width: 30%;
+    font-family: system-ui;
+}
+h1{
+    margin-left: 45%;
+    margin-top: -50px;
+    color: rgb(255, 52, 52);
+}
+#aler1{
+    color: rgb(255, 52, 52);
+    font-weight: bold;
+    font-family: system-ui;
+}
+/* about */
+
+.mypart_about{
+    width: 50%;
+    height: 620px;
+    /* background-color: rgb(231, 231, 231); */
+    margin-top: 60pc;
+    margin-left: 25%;
+    color: rgb(32, 116, 155);
+    align-items: center;
+    font-weight: bold;
+    font-size: 15px;
+    font-family: system-ui;
+    
+}
